@@ -14,9 +14,9 @@
     - Suggest Clustering Idea and pet-cluster-care-service 
 
 - Donghyun Son (Leader)
-    - Coefficient Analysis, Regression, RandomForest (Analysis_XXX.ipynb, thon_XXX.ipynb, json_to_datafram.ipynb)
-    - Make analysis flow
+    - Coefficient Analysis, Regression, RandomForest etc (Analysis_XXX.ipynb, thon_XXX.ipynb, json_to_datafram.ipynb)
+    - Make the flow of our analysis
 
 # Further Description
-- Follow below link
-- https://thon-profile.notion.site/Project-2022-ef18268ca2564e91b06d8efd39cc0e50
+- Follow link below:
+- (https://thon-profile.notion.site/Project-2022-ef18268ca2564e91b06d8efd39cc0e50)
